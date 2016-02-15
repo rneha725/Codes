@@ -1,6 +1,6 @@
-% {
+%{
 	int charCount=0, lineCount=0;
-% }
+%}
 
 %%
 . charCount++;
